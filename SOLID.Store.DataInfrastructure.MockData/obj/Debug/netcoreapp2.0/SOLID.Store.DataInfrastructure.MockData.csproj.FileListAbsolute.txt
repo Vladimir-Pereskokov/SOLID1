@@ -1,0 +1,13 @@
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.deps.json
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.dll
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.pdb
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.Entities.Business.dll
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.Entities.dll
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.Entities.Business.pdb
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\bin\Debug\netcoreapp2.0\SOLID.Store.Entities.pdb
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.csprojResolveAssemblyReference.cache
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.csproj.CoreCompileInputs.cache
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.AssemblyInfoInputs.cache
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.AssemblyInfo.cs
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.dll
+C:\Coding\WorldRemitTech\Shop.DataInfrastructure.MockData\obj\Debug\netcoreapp2.0\SOLID.Store.DataInfrastructure.MockData.pdb
